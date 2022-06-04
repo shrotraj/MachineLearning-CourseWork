@@ -1,0 +1,1 @@
+The following notebook takes you through implementing the decision tree algorithm. It involves data manipulation/visualisation, hyperparameter selection, recursion, and building a prediction model. We will use a binary classification problem: Breast cancer diagnosis.
